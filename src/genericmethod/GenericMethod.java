@@ -6,7 +6,7 @@
 package genericmethod;
 
 /**
- *
+ * Executes a generic method in a program that tests it with a variety of built-in types such as Object or Integer.
  * @author Timothy Bradford
  */
 public class GenericMethod {
